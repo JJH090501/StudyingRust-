@@ -1,6 +1,6 @@
 fn main() {
 
-    let mut cnt = 2; // mut is constant variable. You can change it.
+    let mut cnt = 2; // mut is mutable. You can change it.
 
     let result = loop {
         print!("Hello, Lua!")
