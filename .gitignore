@@ -1,1 +1,9 @@
 build/*
+hello_cargo/target
+
+# Added by cargo
+
+/target
+
+# Ignore Cargo build artifacts in any project
+target/
